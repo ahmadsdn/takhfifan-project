@@ -52,7 +52,7 @@ import Header from '../components/Header.vue'
 import HeroSection from '../components/HeroSection.vue'
 import OffersSection from '../components/OffersSection.vue'
 import OfflineCashback from '@/components/OfflineCashback.vue'
-import Footer from '@/components/Footer.vue'
+import Footer from '@/components/footer.vue'
 import MainMenu from '@/components/MainMenu.vue'
 
 const shockingOffers = [
